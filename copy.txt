@@ -1,0 +1,17 @@
+1. OOPs concepts (relationships: is-a & has-a)
+2. Basics of Python (Syntax, Loop, Conditional statements, Operators)
+Functions
+       * Anonymous
+       * Recursion
+       * Argument
+File Handling (text, pickle, json)
+Modules
+Packages
+Libraries
+Exceptions
+Shallow copy, Deep copy
+Super() method
+Iterators
+Generators
+Closures
+Decorators
