@@ -37,6 +37,3 @@ numbers =[1,6,7,4,3,9,2,19,0]
 print(max(numbers))
 print(min(numbers))
 print(sum(numbers))
-
-for values,index in enumerate(names):
-    print(index , values)
